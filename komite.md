@@ -40,6 +40,7 @@ Created: 2023-01-16
 
 | Ansvarsområde | Navn | Trinn |
 |--|--|--|
+| Designer | | |
 | Dirigent | | |
 | Konferansier | | |
 | Lydtekniker | | |
