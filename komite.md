@@ -1,5 +1,5 @@
 ---
-Title: 17. mai komitéen 2023
+Title: 17. mai 2023
 Author: Victor Nystad
 Created: 2023-01-16
 ---
