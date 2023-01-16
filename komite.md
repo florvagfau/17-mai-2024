@@ -9,7 +9,7 @@ Created: 2023-01-16
 | Ansvarsområde | Navn | Trinn |
 |--|--|--|
 | Arrangement | | |
-| Bod & gevinst | | |
+| Bod & gevinst | Katrine Nyhammer Eidsheim | 4 |
 | Informasjon & dugnad | | |
 | Kafé | | |
 | Leder | Victor Nystad | 5 |
