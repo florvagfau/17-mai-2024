@@ -42,6 +42,7 @@ Created: 2023-01-16
 |--|--|--|
 | Designer | | |
 | Dirigent | | |
+| Fotograf | | |
 | Konferansier | | |
 | Lydtekniker | | |
 | Musiker(e) | | |
