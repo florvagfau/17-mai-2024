@@ -30,6 +30,19 @@ Created: 2023-01-16
 | Kafé tidlig vakt[^1] | | |
 | Kafé første vakt[^2] | | |
 | Kafé andre vakt[^3] | | |
+| Riggesjef opprigg | | |
+| Riggesjef nedrigg | | |
+| Gratislekene første vakt | | |
+| Gratislekene andre vakt | | |
+
+## Nøkkelroller
+
+| Ansvarsområde | Navn | Trinn |
+|--|--|--|
+| Lydtekniker | | |
+| Konferansier | | |
+| Musiker(e) | | |
+| Dirigent | | |
 
 
 [^1]: Fra 10:30–12:15
