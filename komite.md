@@ -17,6 +17,7 @@ Created: 2023-01-16
 | Bod & gevinst |  |  |
 | Informasjon & dugnad | | |
 | Informasjon & dugnad | | |
+| Informasjon & dugnad | | |
 | Kafé | | |
 | Kafé | | |
 | Komitémedlem | Erik Tingvatn | 4 |
