@@ -42,7 +42,6 @@ Created: 2023-01-16
 |--|--|--|
 | Designer | | |
 | Dirigent | | |
-| Fotograf | | |
 | Konferansier | Tom-Christer Nilsen | 1 |
 | Lydtekniker | Rune Langhelle | 4 |
 | Musiker(e) | | |
