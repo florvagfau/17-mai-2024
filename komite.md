@@ -15,7 +15,7 @@ Created: 2023-01-16
 | Bod & gevinst | Katrine Nyhammer Eidsheim | 4 |
 | Bod & gevinst |  |  |
 | Bod & gevinst |  |  |
-| Informasjon & dugnad | | |
+| Bod & gevinst | | |
 | Informasjon & dugnad | | |
 | Informasjon & dugnad | | |
 | Kafé | | |
