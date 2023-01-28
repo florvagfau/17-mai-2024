@@ -18,7 +18,7 @@ Created: 2023-01-16
 | Bod & gevinst | | |
 | Informasjon & dugnad | Katrine Nyhammer Eidsheim | |
 | Informasjon & dugnad | | |
-| Kafé | | |
+| Kafé | Petter Falck | |
 | Kafé | | |
 | Komitémedlem | Erik Tingvatn | 4 |
 | Leder | Victor Nystad | 5 |
