@@ -12,13 +12,13 @@ Created: 2023-01-16
 |--|--|--|
 | Arrangement | | |
 | Arrangement | | |
-| Bod & gevinst |  | 4 |
+| Bod & gevinst |  | |
 | Bod & gevinst |  |  |
 | Bod & gevinst |  |  |
 | Bod & gevinst | | |
-| Informasjon & dugnad | Katrine Nyhammer Eidsheim | |
+| Informasjon & dugnad | Katrine Nyhammer Eidsheim | 4 |
 | Informasjon & dugnad | | |
-| Kafé | Petter Falck | |
+| Kafé | Petter Falck | 5 |
 | Kafé | | |
 | Komitémedlem | Erik Tingvatn | 4 |
 | Leder | Victor Nystad | 5 |
