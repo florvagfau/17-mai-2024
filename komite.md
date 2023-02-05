@@ -13,7 +13,7 @@ Created: 2023-01-16
 | Arrangement | | |
 | Arrangement | | |
 | Bod & gevinst | Lars Drægebø | 5 |
-| Bod & gevinst |  |  |
+| Bod & gevinst | Erik Tingvatn | 4 |
 | Bod & gevinst |  |  |
 | Bod & gevinst | | |
 | Informasjon & dugnad | Katrine Nyhammer Eidsheim | 4 |
