@@ -12,14 +12,14 @@ Created: 2023-01-16
 |--|--|--|
 | Arrangement | | |
 | Arrangement | | |
-| Bod & gevinst |  | |
-| Bod & gevinst |  |  |
+| Bod & gevinst | Lars Drægebø | 5 |
+| Bod & gevinst | Rakel Pile | 4 |
 | Bod & gevinst |  |  |
 | Bod & gevinst | | |
 | Informasjon & dugnad | Katrine Nyhammer Eidsheim | 4 |
 | Informasjon & dugnad | | |
 | Kafé | Petter Falck | 5 |
-| Kafé | | |
+| Kafé | Kamal Al Kadri | 4 |
 | Komitémedlem | Erik Tingvatn | 4 |
 | Leder | Victor Nystad | 5 |
 | Nøkkelsjef |  |  |
