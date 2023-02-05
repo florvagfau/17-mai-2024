@@ -19,7 +19,7 @@ Created: 2023-01-16
 | Informasjon & dugnad | Katrine Nyhammer Eidsheim | 4 |
 | Informasjon & dugnad | | |
 | Kafé | Petter Falck | 5 |
-| Kafé | Kamal Al Kadri | 4 |
+| Kafé | Jamal Al Kadri | 4 |
 | Komitémedlem | Erik Tingvatn | 4 |
 | Leder | Victor Nystad | 5 |
 | Nøkkelsjef |  |  |
