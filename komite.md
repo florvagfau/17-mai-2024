@@ -20,7 +20,6 @@ Created: 2023-01-16
 | Informasjon & dugnad | | |
 | Kafé | Petter Falck | 5 |
 | Kafé | Jamal Al Kadri | 4 |
-| Komitémedlem | Erik Tingvatn | 4 |
 | Leder | Victor Nystad | 5 |
 | Nøkkelsjef |  |  |
 | Økonomi | Nils Kristiansen | 5 |
