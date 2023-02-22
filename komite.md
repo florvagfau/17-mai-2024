@@ -10,12 +10,13 @@ Created: 2023-01-16
 
 | Ansvarsområde | Navn | Trinn |
 |--|--|--|
+| Arrangement | Sindre Risholm | 1 |
 | Arrangement | | |
-| Arrangement | | |
-| Bod & gevinst | Lars Drægebø | 5 |
 | Bod & gevinst | Erik Tingvatn | 4 |
-| Bod & gevinst |  |  |
-| Bod & gevinst | | |
+| Bod & gevinst | Lars Drægebø | 5 |
+| Bod & gevinst | Silje Sørheim Huiberts | 5 |
+| Bod & gevinst | Åshild Huiberts | 5 |
+| Bod & gevinst | Ernst Haraldsen  | 5 |
 | Informasjon & dugnad | Katrine Nyhammer Eidsheim | 4 |
 | Informasjon & dugnad | | |
 | Kafé | Petter Falck | 5 |
