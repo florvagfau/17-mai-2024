@@ -16,7 +16,6 @@ Created: 2023-01-16
 | Bod & gevinst | Lars Drægebø | 5 |
 | Bod & gevinst | Silje Sørheim Huiberts | 5 |
 | Bod & gevinst | Åshild Huiberts | 5 |
-| Bod & gevinst | Ernst Haraldsen  | 5 |
 | Informasjon & dugnad | Katrine Nyhammer Eidsheim | 4 |
 | Informasjon & dugnad | | |
 | Kafé | Petter Falck | 5 |
