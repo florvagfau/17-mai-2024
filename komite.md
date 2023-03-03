@@ -48,6 +48,12 @@ Created: 2023-01-16
 | Lydtekniker | Rune Langhelle | 4 |
 | Musiker(e) | | |
 
+## Orkester
+
+| Instrument | Navn | Trinn |
+|--|--|--|
+| Bariton | Aud Trohaug | 5 |
+
 
 
 [^1]: Fra 10:30–12:15
