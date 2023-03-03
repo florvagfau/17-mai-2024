@@ -35,7 +35,7 @@ Created: 2023-01-16
 | Gratislekene første vakt | | |
 | Gratislekene andre vakt | | |
 | Riggesjef opprigg | | |
-| Riggesjef nedrigg | | |
+| Riggesjef nedrigg | Rune Lie | 4 |
 
 
 ## Nøkkelroller
