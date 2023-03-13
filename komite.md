@@ -17,11 +17,11 @@ Created: 2023-01-16
 | Bod & gevinst | Silje Sørheim Huiberts | 5 |
 | Bod & gevinst | Åshild Huiberts | 5 |
 | Informasjon & dugnad | Katrine Nyhammer Eidsheim | 4 |
-| Informasjon & dugnad | | |
+| Informasjon & dugnad | Victor Nystad | 5 |
 | Kafé | Petter Falck | 5 |
 | Kafé | Jamal Al Kadri | 4 |
 | Leder | Victor Nystad | 5 |
-| Nøkkelsjef |  |  |
+| Nøkkelsjef | Victor Nystad | 5 |
 | Økonomi | Nils Kristiansen | 5 |
 
 
