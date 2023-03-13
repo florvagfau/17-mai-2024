@@ -11,7 +11,7 @@ Created: 2023-01-16
 | Ansvarsområde | Navn | Trinn |
 |--|--|--|
 | Arrangement | Sindre Risholm | 1 |
-| Arrangement | | |
+| Arrangement | Monica Berg | 6 |
 | Bod & gevinst | Erik Tingvatn | 4 |
 | Bod & gevinst | Lars Drægebø | 5 |
 | Bod & gevinst | Silje Sørheim Huiberts | 5 |
