@@ -46,7 +46,7 @@ Created: 2023-01-16
 | Dirigent | | |
 | Konferansier | Tom-Christer Nilsen | 1 |
 | Lydtekniker | Rune Langhelle | 4 |
-| Musiker(e) | | |
+| Musiker(e) | Endre Dåvøy<br>Tommy Hagen<br>Victor Nystad | 0<br>2<br>5 |
 
 ## Orkester
 
