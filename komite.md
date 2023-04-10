@@ -34,7 +34,7 @@ Created: 2023-01-16
 | Kafé andre vakt[^3] | | |
 | Gratislekene første vakt | | |
 | Gratislekene andre vakt | | |
-| Riggesjef opprigg | | |
+| Riggesjef opprigg | Terje Heggholmen Hagen | 4 & 6 |
 | Riggesjef nedrigg | Rune Lie | 4 |
 
 
