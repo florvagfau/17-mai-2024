@@ -42,7 +42,7 @@ Created: 2023-01-16
 
 | Ansvarsområde | Navn | Trinn |
 |--|--|--|
-| Designer | | |
+| Designer | Renate Wilhelmsen | 7 |
 | Dirigent | | |
 | Konferansier | Tom-Christer Nilsen | 1 |
 | Lydtekniker | Rune Langhelle | 4 |
