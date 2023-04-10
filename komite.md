@@ -21,7 +21,7 @@ Created: 2023-01-16
 | Kafé | Petter Falck | 5 |
 | Kafé | Jamal Al Kadri | 4 |
 | Leder | Victor Nystad | 5 |
-| Nøkkelsjef | Victor Nystad | 5 |
+| Nøkkelsjef | Solveig Heggholmen Hagen | 4 & 6 |
 | Økonomi | Nils Kristiansen | 5 |
 
 
