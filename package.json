@@ -1,0 +1,13 @@
+{
+  "name": "17-mai-2024",
+  "version": "1.0.0",
+  "description": "17. mai er det største arrangementet på Florvåg Skole, og det organiseres i hovedsak av 4. og 5. trinn hvert år[^1].",
+  "scripts": {
+    "csv": "./node_modules/github-csv-tools/index.js"
+  },
+  "author": "Victor Nystad",
+  "license": "MIT",
+  "devDependencies": {
+    "github-csv-tools": "^3.2.0"
+  }
+}
